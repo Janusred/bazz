@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/home/idgs/Documentos/JanusApis/bas/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2920808574.index
+1584446974.index
+3896734676.index
+3101643533.index
